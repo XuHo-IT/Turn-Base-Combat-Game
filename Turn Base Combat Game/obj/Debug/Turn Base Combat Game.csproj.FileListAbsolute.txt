@@ -1,0 +1,7 @@
+D:\CSharp_Projects\Turn Base Combat Game\Turn Base Combat Game\bin\Debug\Turn Base Combat Game.exe.config
+D:\CSharp_Projects\Turn Base Combat Game\Turn Base Combat Game\bin\Debug\Turn Base Combat Game.exe
+D:\CSharp_Projects\Turn Base Combat Game\Turn Base Combat Game\bin\Debug\Turn Base Combat Game.pdb
+D:\CSharp_Projects\Turn Base Combat Game\Turn Base Combat Game\obj\Debug\Turn Base Combat Game.csproj.AssemblyReference.cache
+D:\CSharp_Projects\Turn Base Combat Game\Turn Base Combat Game\obj\Debug\Turn Base Combat Game.csproj.CoreCompileInputs.cache
+D:\CSharp_Projects\Turn Base Combat Game\Turn Base Combat Game\obj\Debug\Turn Base Combat Game.exe
+D:\CSharp_Projects\Turn Base Combat Game\Turn Base Combat Game\obj\Debug\Turn Base Combat Game.pdb
